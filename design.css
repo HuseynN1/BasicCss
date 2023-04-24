@@ -1,0 +1,15 @@
+body{font-weight: bold;text-align: center;}
+header{color: white;background-color: black;text-decoration: underline; font-size: 60px;text-align: center;}
+h2{
+    font-size: 40px;
+}
+h3,p 
+{font-size: 32px;}
+img{width: 25%;}
+
+ul{
+    text-align: center;
+    font-size: 35px;
+    border: solid black;
+    list-style-position: inside;
+}
